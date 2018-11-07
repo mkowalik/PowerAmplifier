@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_CurrentSources|SchDesignator=U_CurrentSources|FileName=CurrentSources.SchDoc|SymbolType=Normal|RawFileName=CurrentSources.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_FirsStageAmplifier|SchDesignator=U_FirsStageAmplifier|FileName=FirsStageAmplifier.SchDoc|SymbolType=Normal|RawFileName=FirsStageAmplifier.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
